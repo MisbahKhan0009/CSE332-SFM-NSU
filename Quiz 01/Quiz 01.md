@@ -308,7 +308,7 @@ So it requires 20 address lines to address each byte in the memory.
 
  ### 42.  What is the size of address decoder of 8MB memory?
 
-Ans:  For 1MB, 
+Ans:  For 8MB, 
 
 8 x 1024 x 1024 Bytes
 => 2<sup>23</sup> Bytes
