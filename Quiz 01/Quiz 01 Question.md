@@ -1,0 +1,5 @@
+ 1. What is Byte Address Memory? [2]
+ 2. Explain read and write operation briefly. [3]
+ 3. How a 32 Bit data will be stored in Byte Address Memory. [2]
+ 4. How instructions stored in memory [1]
+ 5. What is the size of memory location for a 16MB data. [2]

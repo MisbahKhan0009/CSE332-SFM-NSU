@@ -2,7 +2,7 @@
 
 Ans: A non-stored program computer refers to a computing system where
 instructions are executed directly from hardware without being stored in
-memory, typical of early electronic computers
+memory.
 
 
  ### 2.  What do you understand by stored program computer?
@@ -13,9 +13,8 @@ are stored in memory along with data.
 
  ### 3.  How programs and data are stored in a stored program computer?
 
-Ans: Programs are represented as sequences of instructions, while data
-is stored in memory locations that can be accessed and manipulated by
-the program instructions.
+Ans: Programs are represented as machine code while data
+is stored in memory with it's binary representation.
 
 
  ### 4.  What is the benefit of a stored program computer over a non-stored program computer?
@@ -50,9 +49,7 @@ for a instruction set is 8 bits, but modern processor usually use 32 or
   
  ### 9. How memory devices are designed?
 
-Ans: Memory devices are designed using electronic components such as
-transistors and capacitors arranged in circuits. These circuits are
-organised into cells, which can store binary data as electrical charges.
+Ans: Memory devices are designed as an array of storage. Each location can hold fixed number of bits.
 
   
 
@@ -78,7 +75,7 @@ or 0).
  ### 13. What do you understand by a byte addressable memory?
   
 
-Ans: In the context of addressable location in 1 Byte (8 bits) called Byte addressable memory
+Ans: If the context of addressable location is 1 Byte (8 bits), it is called Byte addressable memory
   
 
  ### 14. Identify byte addressable memory: 1KB, 1K x 16bits, 1k x 32bits.
